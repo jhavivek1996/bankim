@@ -9,7 +9,7 @@ public class Patterns {
 			}
 			System.out.println();
 		}//close of 1st i loops
-		for (int i = 0; i < n; i++) {// 2nd i Loops
+		for (int i = 0; i < n; i++) {// 2nd i Loops required
 			for (int j = 0; j < n; j++) {
 				System.out.print("$");
 			}
